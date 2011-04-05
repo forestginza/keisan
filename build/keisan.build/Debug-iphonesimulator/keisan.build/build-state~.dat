@@ -1,0 +1,238 @@
+Tkeisan
+v7
+r0
+t323603545.694680
+cCheck dependencies
+cProcessInfoPlistFile /Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/Info.plist keisan-Info.plist
+cCompileXIB /Users/mac/Desktop/keisan/MainWindow.xib
+cCompileXIB /Users/mac/Desktop/keisan/keisanView.xib
+cProcessPCH /var/folders/Gg/Gg7z2FybEvWJan91sNmnMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/keisan_Prefix-gzgurzsdakenjmhdohoofnaaiazd/keisan_Prefix.pch.gch keisan_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/main.o /Users/mac/Desktop/keisan/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/keisanAppDelegate.o /Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/keisanViewController.o /Users/mac/Desktop/keisan/Classes/keisanViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/mac/Desktop/keisan/Classes/keisanAppDelegate.h
+c000000004D99927A000000000000013C
+t1301910138
+s316
+i<UIKit/UIKit.h>
+
+N/Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m
+c000000004D9994C50000000000000A94
+t1301910725
+s2708
+i"keisanAppDelegate.h"
+i"keisanViewController.h"
+
+N/Users/mac/Desktop/keisan/Classes/keisanViewController.h
+c000000004D9994C500000000000000E3
+t1301910725
+s227
+i<UIKit/UIKit.h>
+
+N/Users/mac/Desktop/keisan/Classes/keisanViewController.m
+c000000004D9993740000000000000621
+t1301910388
+s1569
+i"keisanViewController.h"
+
+N/Users/mac/Desktop/keisan/MainWindow.xib
+c000000004D99927A0000000000002103
+t1301910138
+s8451
+
+N/Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app
+t2
+s0
+
+N/Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app.dSYM
+t2
+s0
+
+N/Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/Info.plist
+t1301910742
+s587
+
+N/Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/MainWindow.nib
+t1301910743
+s1530
+
+N/Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/PkgInfo
+t1301910742
+s8
+
+N/Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/keisan
+t2
+s0
+
+N/Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/keisanView.nib
+t1301910743
+s4567
+
+N/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/keisan.LinkFileList
+c000000004D9994D6000000000000015E
+t1301910742
+s350
+
+N/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/keisanAppDelegate.o
+t2
+s0
+
+N/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/keisanViewController.o
+t1301910745
+s38100
+
+N/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/main.o
+t1301910745
+s6284
+
+N/Users/mac/Desktop/keisan/keisanView.xib
+c000000004D9993570000000000006DC6
+t1301910359
+s28102
+
+N/Users/mac/Desktop/keisan/keisan_Prefix.pch
+c000000004D99927A00000000000000B5
+t1301910138
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mac/Desktop/keisan/main.m
+c000000004D99927A0000000000000160
+t1301910138
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/Gg/Gg7z2FybEvWJan91sNmnMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/keisan_Prefix-gzgurzsdakenjmhdohoofnaaiazd/keisan_Prefix.pch.gch
+t1301910745
+s15814064
+
+Nkeisan-Info.plist
+c000000004D99927A000000000000038D
+t1301910138
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323603542#323603542#0(0"0(0#1#0"8616895168#0"0#
+
+CCompileC build/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/keisanAppDelegate.o /Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323603545.535529
+e323603545.612628
+r0
+xCompileC
+xbuild/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/keisanAppDelegate.o
+x/Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m: In function '-[keisanAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m:24: error: expected ',' or ';' before ':' token
+o/Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m:23: warning: unused variable 'controller'
+lSLF07#2@61"Compile /Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m323603545#323603545#0(332"/Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m: In function '-[keisanAppDelegate application:didFinishLaunchingWithOptions:]':/Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m:24: error: expected ',' or ';' before ':' token/Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m:23: warning: unused variable 'controller'2(4@36"Expected ',' or ';' before ':' token323603545#134#102#0(6@53"/Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m323603525#24#0#24#0#19"expected * before *0(22@28"Unused variable 'controller'323603545#236#96#0(6@53"/Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m323603525#23#0#23#0#19"unused variable '*'0(0#0#53"/Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m8616689920#1785"    cd /Users/mac/Desktop/keisan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-generated-files.hmap -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-own-target-headers.hmap -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-all-target-headers.hmap -iquote /Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-project-headers.hmap -F/Users/mac/Desktop/keisan/build/Debug-iphonesimulator -I/Users/mac/Desktop/keisan/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/DerivedSources/i386 -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/DerivedSources -include /var/folders/Gg/Gg7z2FybEvWJan91sNmnMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/keisan_Prefix-gzgurzsdakenjmhdohoofnaaiazd/keisan_Prefix.pch -c /Users/mac/Desktop/keisan/Classes/keisanAppDelegate.m -o /Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/keisanAppDelegate.o1#
+
+CCompileC build/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/keisanViewController.o /Users/mac/Desktop/keisan/Classes/keisanViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323603545.612751
+e323603545.694572
+r1
+xCompileC
+xbuild/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/keisanViewController.o
+x/Users/mac/Desktop/keisan/Classes/keisanViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/mac/Desktop/keisan/Classes/keisanViewController.m323603545#323603545#0(0"0(0#0#56"/Users/mac/Desktop/keisan/Classes/keisanViewController.m8621612384#1791"    cd /Users/mac/Desktop/keisan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-generated-files.hmap -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-own-target-headers.hmap -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-all-target-headers.hmap -iquote /Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-project-headers.hmap -F/Users/mac/Desktop/keisan/build/Debug-iphonesimulator -I/Users/mac/Desktop/keisan/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/DerivedSources/i386 -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/DerivedSources -include /var/folders/Gg/Gg7z2FybEvWJan91sNmnMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/keisan_Prefix-gzgurzsdakenjmhdohoofnaaiazd/keisan_Prefix.pch -c /Users/mac/Desktop/keisan/Classes/keisanViewController.m -o /Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/keisanViewController.o0#
+
+CCompileC build/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/main.o /Users/mac/Desktop/keisan/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323603545.532818
+e323603545.614967
+r1
+xCompileC
+xbuild/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/main.o
+x/Users/mac/Desktop/keisan/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Compile /Users/mac/Desktop/keisan/main.m323603545#323603545#0(0"0(0#0#32"/Users/mac/Desktop/keisan/main.m8618758304#1751"    cd /Users/mac/Desktop/keisan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-generated-files.hmap -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-own-target-headers.hmap -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-all-target-headers.hmap -iquote /Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-project-headers.hmap -F/Users/mac/Desktop/keisan/build/Debug-iphonesimulator -I/Users/mac/Desktop/keisan/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/DerivedSources/i386 -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/DerivedSources -include /var/folders/Gg/Gg7z2FybEvWJan91sNmnMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/keisan_Prefix-gzgurzsdakenjmhdohoofnaaiazd/keisan_Prefix.pch -c /Users/mac/Desktop/keisan/main.m -o /Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mac/Desktop/keisan/MainWindow.xib
+s323603542.894148
+e323603543.832425
+r1
+xCompileXIB
+x/Users/mac/Desktop/keisan/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323603542#323603543#0(0"0(0#0#40"/Users/mac/Desktop/keisan/MainWindow.xib8615800160#530"    cd /Users/mac/Desktop/keisan    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/MainWindow.nib /Users/mac/Desktop/keisan/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mac/Desktop/keisan/keisanView.xib
+s323603542.905645
+e323603544.032667
+r1
+xCompileXIB
+x/Users/mac/Desktop/keisan/keisanView.xib
+lSLF07#2@25"CompileXIB keisanView.xib323603542#323603544#0(0"0(0#0#40"/Users/mac/Desktop/keisan/keisanView.xib8620211808#530"    cd /Users/mac/Desktop/keisan    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/keisanView.nib /Users/mac/Desktop/keisan/keisanView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app.dSYM /Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/keisan
+r0
+
+CLd /Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/keisan normal i386
+r0
+
+CProcessInfoPlistFile /Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/Info.plist keisan-Info.plist
+s323603542.883522
+e323603542.894009
+r1
+xProcessInfoPlistFile
+x/Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/Info.plist
+xkeisan-Info.plist
+lSLF07#2@25"Process keisan-Info.plist323603542#323603542#0(0"0(0#0#43"/Users/mac/Desktop/keisan/keisan-Info.plist8616101760#437"    cd /Users/mac/Desktop/keisan    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility keisan-Info.plist -genpkginfo /Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app/Info.plist0#
+
+CProcessPCH /var/folders/Gg/Gg7z2FybEvWJan91sNmnMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/keisan_Prefix-gzgurzsdakenjmhdohoofnaaiazd/keisan_Prefix.pch.gch keisan_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323603544.032818
+e323603545.532422
+r1
+xProcessPCH
+x/var/folders/Gg/Gg7z2FybEvWJan91sNmnMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/keisan_Prefix-gzgurzsdakenjmhdohoofnaaiazd/keisan_Prefix.pch.gch
+xkeisan_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile keisan_Prefix.pch323603544#323603545#0(0"0(0#0#43"/Users/mac/Desktop/keisan/keisan_Prefix.pch8616739168#1657"    cd /Users/mac/Desktop/keisan    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-generated-files.hmap -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-own-target-headers.hmap -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-all-target-headers.hmap -iquote /Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/keisan-project-headers.hmap -F/Users/mac/Desktop/keisan/build/Debug-iphonesimulator -I/Users/mac/Desktop/keisan/build/Debug-iphonesimulator/include -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/DerivedSources/i386 -I/Users/mac/Desktop/keisan/build/keisan.build/Debug-iphonesimulator/keisan.build/DerivedSources -c /Users/mac/Desktop/keisan/keisan_Prefix.pch -o /var/folders/Gg/Gg7z2FybEvWJan91sNmnMk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/keisan_Prefix-gzgurzsdakenjmhdohoofnaaiazd/keisan_Prefix.pch.gch0#
+
+CTouch /Users/mac/Desktop/keisan/build/Debug-iphonesimulator/keisan.app
+r0
+
