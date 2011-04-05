@@ -75,7 +75,7 @@
 						<int key="IBUIContentMode">7</int>
 						<bool key="IBUIUserInteractionEnabled">NO</bool>
 						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-						<string key="IBUIText">値１</string>
+						<string key="IBUIText">値A</string>
 						<reference key="IBUITextColor" ref="328211404"/>
 						<reference key="IBUIHighlightedColor" ref="204203588"/>
 						<int key="IBUIBaselineAdjustment">1</int>
@@ -107,7 +107,7 @@
 						<int key="IBUIContentMode">7</int>
 						<bool key="IBUIUserInteractionEnabled">NO</bool>
 						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
-						<string key="IBUIText">値２</string>
+						<string key="IBUIText">値B</string>
 						<reference key="IBUITextColor" ref="328211404"/>
 						<reference key="IBUIHighlightedColor" ref="204203588"/>
 						<int key="IBUIBaselineAdjustment">1</int>
@@ -364,7 +364,7 @@
 					<string>keisanViewController</string>
 					<string>UIResponder</string>
 					<string>UIControl</string>
-					<string>{{365, -23}, {320, 480}}</string>
+					<string>{{365, 45}, {320, 480}}</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<object class="NSAffineTransform">
